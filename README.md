@@ -1,3 +1,3 @@
-# Create Trybe App
+# Calculadora Freelancer
 
-Esse é um projeto criado com as principais tecnologias utilizadas no módulo de front-end da Trybe.
+Esse projeto foi criado com um acompanhamento dos especialista da Trybe com o intuito de organizar valores e rendas de trabalhos Freelancers.
