@@ -1,7 +1,11 @@
 # Componentes
 
-Header 
+Header
+
 InforBar (Título)
+
 Footer
+
 Input
+
 Form** > ResultValues** > props
