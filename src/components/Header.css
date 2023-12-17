@@ -1,0 +1,43 @@
+header {
+    background-color: var(--green);
+    padding: 32px 0 32px 0;
+}
+
+
+.header__brand {
+    display: flex;
+    gap: 100px;
+    /* border: red solid 1px; */
+    padding: 32px 0;
+    align-items: center;
+}
+
+.header__brand span {
+    width: 3px;
+    height: 130px;
+    background-color: var(--lime-2);
+}
+
+.header__desc {
+   flex: 1;
+}
+
+.header__desc h1 {
+    color: var(--lime-2);
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+
+.header__desc p {
+    color: #a9e34b;
+    font-size: 22px;
+}
+
+.ppp-logo {
+   flex: 1;
+}
+
+.ppp-logo img {
+    max-width: 100%;
+    object-fit: contain;
+}
