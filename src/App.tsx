@@ -14,9 +14,9 @@ function App() {
         ou quer se tornar MEI, calcule o valor da sua hora de trabalho:"
       />
 
-      <InfoBar
+      {/* <InfoBar
         title="Calcule o valor a ser cobrado para um projeto:"
-      />
+      /> */}
 
       <CalculatorContainer />
 
