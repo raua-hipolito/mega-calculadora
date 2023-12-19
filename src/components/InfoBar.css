@@ -6,8 +6,8 @@
     margin-bottom: 32px;
     font-weight: 700;
     position: relative;
-}
-
+  }
+  
 .infobar:after {
     content: '';
     position: absolute;
@@ -17,4 +17,4 @@
     bottom: -20px;
     left: 50%;
     margin-left: -20px;
-}
+  }

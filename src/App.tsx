@@ -1,4 +1,5 @@
 import './App.css';
+import CalculatorContainer from './components/CalculatorContainer';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import InfoBar from './components/InfoBar';
@@ -16,6 +17,8 @@ function App() {
       <InfoBar
         title="Calcule o valor a ser cobrado para um projeto:"
       />
+
+      <CalculatorContainer />
 
       <Footer />
 
